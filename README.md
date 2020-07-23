@@ -5,7 +5,9 @@
   body {background-image: url('bbi,jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-   background-size: 100% 100%;}
+   background-size: 100% 100%;
+  padding:0;
+margin:0;}
 ul {
   list-style-type: none;
   margin: 0;
@@ -27,6 +29,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
