@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  body {background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZSE_Em-_dlLKX2yrC_rZjHjcemjxO5eJwmw&usqp=CAU');
+  body {background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20190228%2Fourlarge%2Fpngtree-shapes-with-geometric-minimal-rectangle-white-and-black-gradient-background-png-image_710305.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fshapes-with-geometric-minimal-rectangle-white-and-black-gradient-background_4069974.html&tbnid=GyzlkMQpHOUncM&vet=10CAEQMyhoahcKEwjwyqKUqOPqAhUAAAAAHQAAAAAQAg..i&docid=yHZVFBJ0hqAItM&w=640&h=640&q=transparent%20black%20gradient%20background&hl=en&ved=0CAEQMyhoahcKEwjwyqKUqOPqAhUAAAAAHQAAAAAQAg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
    background-size: 100% 100%;}
