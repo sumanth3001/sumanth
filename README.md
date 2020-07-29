@@ -2,12 +2,10 @@
 <html>
 <head>
 <style>
-  body {background-image: url('bbi,jpg');
+  body {background-image: url('bbi.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-   background-size: 100% 100%;
-  padding:0;
-margin:0;}
+   background-size: 100% 100%;}
 ul {
   list-style-type: none;
   margin: 0;
