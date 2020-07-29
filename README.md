@@ -50,7 +50,7 @@ li a:hover:not(.active) {
   <li><a href="images.html">IMAGES</a></li>
   <li style="float:right"><a href="#about">About</a></li>
 </ul>
-<h1><b>WELCOME TO WEB PAGE</b></h1>
+<h1><br/><b>WELCOME TO WEB PAGE</b></h1>
 <p><b>This is me kulkarni sumanth</b></p>
 <p1>Let it work first</p1>
 
