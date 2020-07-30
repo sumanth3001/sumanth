@@ -10,7 +10,7 @@ ul.sidenav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 25%;
+  width: 45%;
   background-color: #f1f1f1;
   position: fixed;
   height: 100%;
@@ -20,7 +20,7 @@ ul.sidenav {
 ul.sidenav li a {
   display: block;
   color: #000;
-  padding: 6px 14px;
+  padding: 8px 16px;
   text-decoration: none;
 }
  
