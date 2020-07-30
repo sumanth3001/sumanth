@@ -40,7 +40,7 @@ div.content {
   height: 1000px;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 2000px) {
   ul.sidenav {
     width: 20%;
     height: auto;
