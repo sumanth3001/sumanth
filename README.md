@@ -55,7 +55,7 @@ div.content {
   div.content {margin-left: 0;}
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   ul.sidenav li {
     text-align: center;
     float: none;
