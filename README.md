@@ -57,7 +57,7 @@ div.content {
 
 @media screen and (max-width: 400px) {
   ul.sidenav li a {
-    width:40%;
+    display:block
     text-align: center;
     float: none;
   }
