@@ -1,58 +1,85 @@
-
+<!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-  body {background-image: url('bbi.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-   background-size: 100% 100%;}
-ul {
+body {margin: 0;
+  background-image:url('bbi.jpg');}
+
+ul.sidenav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #333;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
 }
 
-li {
-  float: left;
-  border-right:1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
-}
-
-li a {
+ul.sidenav li a {
   display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+  color: #000;
+  padding: 8px 16px;
   text-decoration: none;
 }
-
-li a:hover:not(.active) {
-  background-color: #111;
+ 
+ul.sidenav li a.active {
+  background-color: #4CAF50;
+  color: white;
 }
 
-.active {
-  background-color: #4CAF50;
+ul.sidenav li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 25%;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 900px) {
+  ul.sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  ul.sidenav li a {
+    float: left;
+    padding: 15px;
+  }
+  
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  ul.sidenav li a {
+    text-align: center;
+    float: none;
+  }
 }
 </style>
 </head>
 <body>
 
-<ul>
+<ul class="sidenav">
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="about.html">NEWS</a></li>
-  <li><a href="contacts.html">CONTACT</a></li>
-  <li><a href="images.html">IMAGES</a></li>
-  <li style="float:right"><a href="#about">About</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="images.html">Images</a></li>
 </ul>
-<h1><b>WELCOME TO WEB PAGE</b></h1>
-<p><b>This is me kulkarni sumanth</b></p>
-<p1>Let it work first</p1>
 
+<div class="content">
+  <h2>Responsive Sidenav Example</h2>
+  <p>This example use media queries to transform the sidenav to a top navigation bar when the screen size is 900px or less.</p>
+  <p>We have also added a media query for screens that are 400px or less, which will vertically stack and center the navigation links.</p>
+  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
+  <h3>Resize the browser window to see the effect.</h3>
+</div>
 
 </body>
 </html>
+
