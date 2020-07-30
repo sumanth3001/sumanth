@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -73,7 +73,7 @@ div.content {
 </ul>
 
 <div class="content">
-  <h2>Responsive Sidenav Example</h2>
+  <h2>Kulkarni Sumanth</h2>
   <p>This example use media queries to transform the sidenav to a top navigation bar when the screen size is 900px or less.</p>
   <p>We have also added a media query for screens that are 400px or less, which will vertically stack and center the navigation links.</p>
   <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
