@@ -20,7 +20,7 @@ ul.sidenav {
 ul.sidenav li a {
   display: block;
   color: #000;
-  padding: 8px 16px;
+  padding: 14px 16px;
   text-decoration: none;
 }
  
@@ -55,7 +55,7 @@ div.content {
   div.content {margin-left: 0;}
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   ul.sidenav li a {
     text-align: center;
     float: none;
