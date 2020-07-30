@@ -40,7 +40,7 @@ div.content {
   height: 1000px;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 900px) {
   ul.sidenav {
     width: 20%;
     height: auto;
@@ -55,7 +55,7 @@ div.content {
   div.content {margin-left: 0;}
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
   ul.sidenav li {
     text-align: center;
     float: none;
