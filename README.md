@@ -56,8 +56,10 @@ div.content {
 }
 
 @media screen and (max-width: 500px) {
+ul sidenav {
+display:in-line;
   ul.sidenav li a {
-    display:block;
+    
     text-align: center;
     float: none;
   }
