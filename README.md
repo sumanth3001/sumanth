@@ -42,7 +42,7 @@ div.content {
 
 @media screen and (max-width: 2000px) {
   ul.sidenav {
-    width: 20%;
+    width: 50%;
     height: auto;
     position: relative;
   }
