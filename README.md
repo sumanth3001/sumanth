@@ -12,9 +12,10 @@ ul.sidenav {
   padding: 0;
   width: 25%;
   background-color: #f1f1f1;
-  position: left;
+  position: fixed;
   height: 100%;
   overflow: auto;
+  float:left;
 }
 
 ul.sidenav li a {
