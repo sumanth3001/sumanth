@@ -59,7 +59,6 @@ div.content {
 ul sidenav {
 display:in-line;}
   ul.sidenav li a {
-    
     text-align: center;
     float: none;
   }
