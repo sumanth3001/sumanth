@@ -11,7 +11,7 @@ ul.sidenav {
   margin: 0;
   padding: 0;
   width: 15%;
-  positin:fixed;
+  position:fixed;
   background-color: #f1f1f1;
   height: 100%;
   overflow: auto;
