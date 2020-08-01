@@ -68,7 +68,7 @@ div.content {
 <ul class="sidenav">
   <li><a class="active" href="https://sumanth3001.github.io/sumanth/">Home</a></li>
   <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
+  <li><a href="contacts.html">Contact</a></li>
   <li><a href="images.html">Images</a></li>
 </ul>
 
