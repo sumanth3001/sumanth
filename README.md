@@ -20,7 +20,7 @@ ul.sidenav {
 ul.sidenav li a {
   display: block;
   color: #000;
-  padding: 14px 16px;
+  padding: 16px 16px;
   text-decoration: none;
 }
  
@@ -48,7 +48,6 @@ div.content {
   }
   
   ul.sidenav li a {
-    float: left;
     padding: 14px;
   }
   
