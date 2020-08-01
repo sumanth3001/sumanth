@@ -8,7 +8,7 @@ body {margin: 0;
 
 ul.sidenav {
   list-style-type: none;
-  margin: 0;
+  margin-left: 0;
   padding: 0;
   width: 15%;
   position:fixed;
