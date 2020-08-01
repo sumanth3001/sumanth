@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
-  background-image:url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F1%2F3%2Fd%2F143528-light-brown-background-1920x1080-windows-xp.jpg&imgrefurl=https%3A%2F%2Fwww.clbxg.com%2FLight-Colored-Textured-Backgrounds%2F&tbnid=kHCDsZ5tKOekSM&vet=10CMIBEDMovwFqFwoTCNifiZS--eoCFQAAAAAdAAAAABAC..i&docid=NdYVJVI0xl61mM&w=1920&h=1080&q=light%20background%20images%20hd%201080p&ved=0CMIBEDMovwFqFwoTCNifiZS--eoCFQAAAAAdAAAAABAC');}
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEstxLzPJdQNdjY1Fz3_zaxUuBcsuVHjwtYQ&usqp=CAU');}
 
 ul.sidenav {
   list-style-type: none;
