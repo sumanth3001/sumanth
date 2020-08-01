@@ -49,7 +49,7 @@ div.content {
   
   ul.sidenav li a {
   float:left;
-    padding: 14px;
+    padding: 144px;
   }
   
   div.content {margin-left: 0;}
