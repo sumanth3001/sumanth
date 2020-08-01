@@ -13,7 +13,6 @@ ul.sidenav {
   width: 15%;
   margin-left:0%;
   background-color: #f1f1f1;
-  position: fixed;
   height: 100%;
   overflow: auto;
 }
