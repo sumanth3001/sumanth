@@ -48,6 +48,7 @@ div.content {
   }
   
   ul.sidenav li a {
+  float:left;
     padding: 14px;
   }
   
