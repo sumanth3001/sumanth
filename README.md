@@ -6,7 +6,7 @@
 body {
   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEstxLzPJdQNdjY1Fz3_zaxUuBcsuVHjwtYQ&usqp=CAU');}
 m.h2 {
-  margin-left:25%;
+  margin-left:25%;}
 ul.sidenav {
   list-style-type: none;
   padding: 0;
