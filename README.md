@@ -5,10 +5,10 @@
 <style>
 body {
   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEstxLzPJdQNdjY1Fz3_zaxUuBcsuVHjwtYQ&usqp=CAU');}
-
+m.h2 {
+  margin-left:25%;
 ul.sidenav {
   list-style-type: none;
-  margin: 0px 0px;
   padding: 0;
   width: 20%;
   position:fixed;
@@ -76,7 +76,7 @@ div.content {
 </ul>
 
 <div class="content">
-  <h2>Kulkarni Sumanth</h2>
+  <h2 class="m">Kulkarni Sumanth</h2>
   <p>This example use media queries to transform the sidenav to a top navigation bar when the screen size is 900px or less.</p>
   <p>We have also added a media query for screens that are 400px or less, which will vertically stack and center the navigation links.</p>
   <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
