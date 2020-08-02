@@ -38,7 +38,7 @@ ul.sidenav li a:hover:not(.active) {
 
 div.content {
   margin-left: 25%;
-  padding: 14px ;
+  padding: 16px ;
   height: 1000px;
 }
 
