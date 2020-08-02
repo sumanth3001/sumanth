@@ -10,7 +10,7 @@ ul.sidenav {
   list-style-type: none;
   margin: 0px 0px;
   padding: 0;
-  width: 15%;
+  width: 25%;
   position:fixed;
   left:0;
   top:0;
